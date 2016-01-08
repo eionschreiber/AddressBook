@@ -1,0 +1,6 @@
+c:\users\eions\documents\visual studio 2015\Projects\BlackBook\BlackBook\bin\Debug\BlackBook.exe.config
+c:\users\eions\documents\visual studio 2015\Projects\BlackBook\BlackBook\bin\Debug\BlackBook.exe
+c:\users\eions\documents\visual studio 2015\Projects\BlackBook\BlackBook\bin\Debug\BlackBook.pdb
+c:\users\eions\documents\visual studio 2015\Projects\BlackBook\BlackBook\obj\Debug\BlackBook.exe
+c:\users\eions\documents\visual studio 2015\Projects\BlackBook\BlackBook\obj\Debug\BlackBook.pdb
+C:\Users\eions\Documents\Visual Studio 2015\Projects\BlackBook\BlackBook\obj\Debug\BlackBook.csprojResolveAssemblyReference.cache
